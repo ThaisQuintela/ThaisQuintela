@@ -12,7 +12,7 @@ Hi, I'm **Thais Quintela**, a web development student from Rio de Janeiro, Brazi
 
 ### Currently, I'm learning and working with the following:
 
-<img src="https://badges.aleen42.com/src/react-router.svg" /> <img src="https://badges.aleen42.com/src/jest_1.svg" /> <img src="https://badges.aleen42.com/src/redux.svg" />  <img src="https://badges.aleen42.com/src/eslint.svg" /> <img src="https://badges.aleen42.com/src/python.svg" /> <img src="https://badges.aleen42.com/src/visual_studio_code.svg" /> <img src="https://badges.aleen42.com/src/react.svg" />  <img src="https://badges.aleen42.com/src/node.svg" /> <img src="https://badges.aleen42.com/src/javascript.svg" /> <img src="https://badges.aleen42.com/src/java.svg" />
+<img src="https://badges.aleen42.com/src/javascript.svg" /> <img src="https://badges.aleen42.com/src/java.svg" /> <img src="https://badges.aleen42.com/src/react-router.svg" /> <img src="https://badges.aleen42.com/src/jest_1.svg" /> <img src="https://badges.aleen42.com/src/redux.svg" />  <img src="https://badges.aleen42.com/src/eslint.svg" /> <img src="https://badges.aleen42.com/src/python.svg" /> <img src="https://badges.aleen42.com/src/visual_studio_code.svg" /> <img src="https://badges.aleen42.com/src/react.svg" />  <img src="https://badges.aleen42.com/src/node.svg" />
 
 **Also:**
 - Agile Methodologies: Scrum · Kanban
