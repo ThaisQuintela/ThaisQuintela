@@ -12,6 +12,8 @@ Hi, I'm **Thais Quintela**, a web development student from Rio de Janeiro, Brazi
 
 ### Currently, I'm learning and working with the following:
 
+<img src="https://badges.aleen42.com/src/java.svg" />
+
 **Languages and tools:**
 
 <p align="left">
